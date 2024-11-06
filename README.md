@@ -13,7 +13,7 @@ config_finalproject_sample_train.yaml
 ```
 Submit training job to Turing. Run the train config file using this command:
 ```
-qsub ___ bashscript_finalproject_train.pbs
+qsub bashscript_finalproject_train.pbs
 ```
 
 This will give us the fine-tuned model in the path specified in the config file
