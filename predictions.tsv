@@ -1,0 +1,6 @@
+textid	target	model	tokenizer	predicted	prob
+1	ST	/home/eheng/NLPScholarFork/final_project/finalproject_sample_trained_model	/home/eheng/NLPScholarFork/final_project/finalproject_sample_trained_model	ST	0.3015035092830658
+2	PM	/home/eheng/NLPScholarFork/final_project/finalproject_sample_trained_model	/home/eheng/NLPScholarFork/final_project/finalproject_sample_trained_model	CA	0.28595152497291565
+3	CA	/home/eheng/NLPScholarFork/final_project/finalproject_sample_trained_model	/home/eheng/NLPScholarFork/final_project/finalproject_sample_trained_model	CA	0.3223014771938324
+4	CA	/home/eheng/NLPScholarFork/final_project/finalproject_sample_trained_model	/home/eheng/NLPScholarFork/final_project/finalproject_sample_trained_model	CA	0.32492193579673767
+5	NT	/home/eheng/NLPScholarFork/final_project/finalproject_sample_trained_model	/home/eheng/NLPScholarFork/final_project/finalproject_sample_trained_model	CA	0.3064019978046417

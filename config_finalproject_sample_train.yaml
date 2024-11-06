@@ -1,0 +1,20 @@
+exp: TextClassification
+mode: 
+    - train
+    
+models: 
+    hf_text_classification_model:
+        - distilbert-base-uncased
+
+          
+trainfpath: /home/eheng/NLPScholarFork/final_project/sampleTrainData.txt
+validfpath: /home/eheng/NLPScholarFork/final_project/sampleTrainData.txt
+modelfpath: /home/eheng/NLPScholarFork/final_project/finalproject_sample_trained_modeltest
+loadPretrained: False
+numLabels: 4
+
+id2label:
+    0: ST
+    1: PM
+    2: CA
+    3: NT

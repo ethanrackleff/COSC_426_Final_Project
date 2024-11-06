@@ -1,0 +1,6 @@
+textid	text	condition	target
+1	If $a \in A$ and $A \subseteq B$, then $a \in B$	x	ST
+2	We have: $\\dfrac b c = \\dfrac d b$ and: $\\dfrac a c = \\dfrac e a$ using the fact that all the triangles involved are Similar Triangles.  That is: $b^2 = c d$ $a^2 = c e$ Adding, we now get: $a^2 + b^2 = c d + c e = c \\paren {d + e} = c^2$	x	PM
+3	Let $\\exp$ be the exponential function. Then: $\\map {\\dfrac \\d {\\d x} } {\\exp x} = \\exp x$	x	CA
+4	$\\map {\\dfrac \\d {\\d x} } {\\sin x} = \\cos x$	x	CA
+5	By Sum of Infinite Geometric Sequence, $0.999 \\ldots = \\dfrac a {1 - r}$", where $a = \\dfrac 9 {10}$ and $r = \\dfrac 1 {10}$, Since our ratio is less than $1$, then we know that $\\displaystyle \\sum_{n \\mathop = 0}^\\infty \\frac 9 {10} \\paren {\\frac 1 {10} }^n$ must converge to $\\dfrac a {1 - r} = \\dfrac {\\frac 9 {10} } {1 - \\frac 1 {10} } = \\dfrac {\\frac 9 {10} } {\\frac 9 {10} } = 1$	x	NT
