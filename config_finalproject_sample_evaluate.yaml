@@ -1,0 +1,10 @@
+exp: TextClassification
+mode: 
+    - evaluate
+    
+models: 
+    hf_text_classification_model:
+        - /home/eheng/NLPScholarFork/final_project/finalproject_sample_trained_model
+
+datafpath: /home/eheng/NLPScholarFork/final_project/finalproject_sample_dataset.tsv
+predfpath: /home/eheng/NLPScholarFork/final_project/predictions.tsv
